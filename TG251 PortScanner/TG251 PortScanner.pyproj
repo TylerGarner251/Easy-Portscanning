@@ -12,7 +12,7 @@
     <Name>TG251 PortScanner</Name>
     <RootNamespace>TG251 PortScanner</RootNamespace>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
-    <CommandLineArguments>-H 10.150.19.1 -p 1</CommandLineArguments>
+    <CommandLineArguments>-H 10.150.19.1 -p 0</CommandLineArguments>
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
